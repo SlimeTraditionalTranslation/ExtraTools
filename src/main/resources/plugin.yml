@@ -1,7 +1,7 @@
 name: ExtraTools
 version: ${project.version}
 author: Sfiguz7
-description: A Slimefun4-Addon aimed at implementing useful tools
+description: 黏液科技附加 更多工具 繁體翻譯版.
 website: https://github.com/Sfiguz7/ExtraTools
 
 main: me.sfiguz7.extratools.ExtraTools

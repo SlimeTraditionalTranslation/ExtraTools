@@ -85,7 +85,7 @@ public class GoldTransmuter extends AContainer implements RecipeDisplayItem {
 
     @Override
     public String getInventoryTitle() {
-        return "&6Gold Transmuter";
+        return "&6黃金變壓機";
     }
 
     @Override

@@ -1,0 +1,7 @@
+version: "1"
+rules:
+  - base: master
+    upstream: Sfiguz7:master
+    mergeMethod: merge
+    conflictReviewers:
+      - xMikux
