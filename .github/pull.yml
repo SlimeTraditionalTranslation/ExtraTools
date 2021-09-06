@@ -4,4 +4,5 @@ rules:
     upstream: Sfiguz7:master
     mergeMethod: merge
     conflictReviewers:
+      - weiii-joe
       - xMikux
